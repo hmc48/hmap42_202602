@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_42_介護療養型医療施設",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "長崎記念病院介護療養型医療施設【介護療養型医療施設】長崎県長崎市深堀町1-11-54", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4210118214-00&ServiceCd=530&Type=search", "url2": "http://www.nmhp.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 129.83338260000005, 32.6850572 ] } },
+{ "type": "Feature", "properties": { "内容": "日宇記念医院【介護療養型医療施設】長崎県佐世保市日宇町2107", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4210225837-00&ServiceCd=530&Type=search", "url2": "http.//www.k4.dion.ne.jp/~hiukinen/" }, "geometry": { "type": "Point", "coordinates": [ 129.765112, 33.1620404 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人慈眼会坂本医院内科婦人科【介護療養型医療施設】長崎県島原市新和町丁2670-10", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4270300231-00&ServiceCd=530&Type=search", "url2": "http://www.himawarinet.ne.jp/~jigenkai/" }, "geometry": { "type": "Point", "coordinates": [ 130.366643, 32.760711 ] } },
+{ "type": "Feature", "properties": { "内容": "国民健康保険直営松浦市立福島診療所【介護療養型医療施設】長崎県松浦市福島町塩浜免2944番地21", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4218124354-00&ServiceCd=530&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 129.81996330000004, 33.3662271 ] } }
+]
+}
